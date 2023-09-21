@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -28,3 +27,8 @@ replay_pid*
 /desafios_lp/.gitignore
 /desafios_lp/bin
 /desafios_lp/.settings
+/TrabalhoIndividual/.classpath
+/TrabalhoIndividual/.project
+/TrabalhoIndividual/.gitignore
+/TrabalhoIndividual/bin
+/TrabalhoIndividual/.settings

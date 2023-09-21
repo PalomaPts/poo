@@ -1,0 +1,11 @@
+Usuario;Carlos Viana;107.456.789-99
+Usuario;Fernando Silva;123.451.234-89
+Usuario;Guilherme Aquina;108.109.234-65
+Usuario;Julia miller;108.109.234-56
+Usuario;Paula Ferrari;108.102.987-43
+Numero do Cartao;111023;100.0;107.456.789-99
+Numero do Cartao;223454;50.0;123.451.234-89
+Numero do Cartao;154587;0.0;108.109.234-65
+Numero do Cartao;293290;250.0;108.109.234-56
+Numero do Cartao;123476;75.0;108.102.987-43
+
